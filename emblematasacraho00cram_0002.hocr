@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./emblematasacraho00cram_0002.png"; bbox 0 0 1981 3126; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 44 90 794 1167">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 44 90 794 1167">
+     <span class='ocr_line' id='line_1_1' title="bbox 44 90 794 1167; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 44 90 794 1167; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 118 1226 527 1274">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 118 1226 527 1274">
+     <span class='ocr_line' id='line_1_2' title="bbox 118 1226 527 1274; baseline 0.017 -11"><span class='ocrx_word' id='word_1_2' title='bbox 118 1226 226 1268; x_wconf 61' lang='lat' dir='ltr'>eme</span> <span class='ocrx_word' id='word_1_3' title='bbox 259 1227 372 1267; x_wconf 68' lang='lat'>8000(</span> <span class='ocrx_word' id='word_1_4' title='bbox 404 1229 527 1274; x_wconf 66' lang='lat' dir='ltr'>Roou</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
